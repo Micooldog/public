@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1920px-ABC_News_solid_black_logo.svg.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",ABC News New York NY (WABC-TV)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/GjICLWN.png",BBC News HD
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/klULxMV.png",CBS News Los Angeles
