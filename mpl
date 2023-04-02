@@ -47,3 +47,5 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (720p)
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/pTiiPz0.png",BBC America (720p)
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
