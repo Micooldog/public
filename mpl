@@ -27,7 +27,7 @@ https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://m.media-amazon.com/images/I/61-5K6QDrnL.png",Euronews English
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
-EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News (1080p)
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News (1080p)
 https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
