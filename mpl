@@ -35,8 +35,10 @@ https://lnc-news12.tubi.video/index.m3u8
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/CH6VcTR.jpg",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/iCLFnWw.png",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/vijNHIo.png",NASA TV
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/zofc9UJ.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/BcN8B3D.png",Red Bull TV (1080p)
