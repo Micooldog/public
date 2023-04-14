@@ -47,7 +47,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/PoI9jpp.png",Fighting Spirit (720p)
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (720p)
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
