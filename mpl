@@ -16,7 +16,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://www.livenowfox.com/img/default-image.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.pinimg.com/736x/53/4e/71/534e715b964964d7dc7c0749928ef3b0.jpg",FOX 5 New York NY (WNYW)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/USA-Today-Logo.png",USA Today
