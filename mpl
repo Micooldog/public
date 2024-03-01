@@ -15,6 +15,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/bpc4v0u.png",CBS News New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/gG2SWgG.png",CBN News National (1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://www.livenowfox.com/img/default-image.png",FOX News Now
