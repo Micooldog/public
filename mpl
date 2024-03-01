@@ -51,9 +51,5 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/BcN8B3D.png",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://plus.fuel.tv/images/fueltv_150x140.png",Fuel TV
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network (720p)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (720p)
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+#EXTINF:-1 roup-title=".MyIPTV" tvg-logo="https://i.imgur.com/I8mviBy.png",FUEL TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
