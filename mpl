@@ -35,6 +35,8 @@ https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8
 https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/xePwW13.png",Lego Channel
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/CH6VcTR.jpg",NASA TV Public
