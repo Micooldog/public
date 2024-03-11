@@ -39,6 +39,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/xePwW13.png",Lego Channel
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/CH6VcTR.jpg",NASA TV Public
