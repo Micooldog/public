@@ -46,7 +46,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/xePwW13.png",Lego Channel
-https://legochannel-vizio.amagi.tv/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/CH6VcTR.jpg",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title=".MyIPTV" tvg-logo="https://i.imgur.com/iCLFnWw.png",NASA TV Media
